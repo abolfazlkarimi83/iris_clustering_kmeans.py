@@ -42,10 +42,14 @@ We load the Iris dataset, apply KMeans clustering to group the flowers into 3 cl
    pip install numpy matplotlib scikit-learn
 
 ---
-نمودار:
+نمودار خوشه‌بندی K-Means روی دیتاست Iris
+این نمودار در سمت چپ نتایج خوشه‌بندی الگوریتم K-Means را روی دو ویژگی طول و عرض گلبرگ (Petal Length و Petal Width) نشان می‌دهد. نقاط قرمز رنگ با علامت ضربدر (×) مراکز خوشه‌ها هستند.
+نمودار سمت راست کلاس‌های واقعی (Ground Truth) نمونه‌ها را نمایش می‌دهد که برای مقایسه با خوشه‌بندی به کار می‌رود.
 
 
-
+K-Means Clustering Plot on Iris Dataset
+The left plot shows the clustering results of the K-Means algorithm on two features: Petal Length and Petal Width. Red crosses (×) represent the cluster centers.
+The right plot displays the actual classes (Ground Truth) of the samples for comparison
 
 
 ![Scatter plot of Iris data](iris_kmeans_plot.png)
