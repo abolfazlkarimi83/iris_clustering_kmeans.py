@@ -40,3 +40,32 @@ We load the Iris dataset, apply KMeans clustering to group the flowers into 3 cl
 
    ```bash
    pip install numpy matplotlib scikit-learn
+
+---
+نمودار:
+
+
+
+
+
+![Scatter plot of Iris data](iris_kmeans_plot.png)
+
+
+
+---
+## About Me | درباره من
+
+👋 My name is **Abolfazl Karimi**. I am a professional AI programmer specializing in developing real-world machine learning and deep learning projects. 
+📫 Contact me via Email: karimiabolfazl466@gmail.com  
+📱 Telegram: [@Abolfazlk83](https://t.me/Abolfazlk83)   
+🌐 LinkedIn: ***  
+🐙 GitHub: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
+
+---
+
+👋 من **ابوالفضل کریمی** هستم، برنامه‌نویس حرفه‌ای هوش مصنوعی با تخصص در توسعه پروژه‌های عملی یادگیری ماشین و یادگیری عمیق.  
+📫 ایمیل: karimiabolfazl466@gmail.com  
+📱 تلگرام: [@Abolfazlk83](https://t.me/Abolfazlk83)  
+🌐 لینکدین: *** 
+🐙 گیت‌هاب: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
+
